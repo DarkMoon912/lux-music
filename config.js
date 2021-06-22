@@ -4,7 +4,7 @@ module.exports = {
   DefaultPrefix: process.env.Prefix || "-", //Префикс по умолчанию бота на серверах
   Port: 3000, //Which port website gonna be hosted
   SupportServer: "https://discord.gg/relaxtime", //Сервер поддержки бота
-  Token: process.env.Token || "ODU2ODM2NzA5NDM4NTg2OTQw.YNG1Xg.E_tAyH51nle_yP3VVcH8B8PkwOM", //Discord Bot Token
+  Token: process.env.Token || "ODU2ODM2NzA5NDM4NTg2OTQw.YNG1Xg.PVsiVK_1RgBq2s-9h5jlyXWhKJo", //Discord Bot Token
   ClientID: process.env.Discord_ClientID || "856836709438586940", //Discord Client ID
   ClientSecret: process.env.Discord_ClientSecret || "8w0i57guzfVC4ISow4VK42CYeDUaCA4C", //Discord Client Secret
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
